@@ -1,11 +1,10 @@
 # consistent-hash2
 
-Consistent hashing ring with virtual nodes.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
+python3 consistent_hash2.py
 python3 consistent_hash2.py test
 ```
-
-Zero dependencies. Python 3.8+.
